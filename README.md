@@ -15,3 +15,4 @@ player.css
   -webkit-overflow-scrolling: touch
 }
 
+![Demo](https://raw.githubusercontent.com/telase/Just-HLS-Player/main/hlsplayer.jpg)
